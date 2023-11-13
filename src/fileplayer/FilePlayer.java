@@ -61,9 +61,9 @@ public class FilePlayer {
     }
     
     private static void playTwinkleTwinkle() {
-        playNotes("do", "do", "so", "so", "la", "la", "so", "fa", "fa", "mi", "mi", "re", "re", "do",
-                "so", "so", "fa", "fa", "mi", "mi", "re", "so", "so", "fa", "fa", "mi", "mi", "re",
-                "do", "do", "so", "so", "la", "la", "so", "fa", "fa", "mi", "mi", "re", "re", "do");
+        playNotes("do", "do", "sol", "sol", "la", "la", "sol", "fa", "fa", "mi", "mi", "re", "re", "do",
+                "sol", "sol", "fa", "fa", "mi", "mi", "re", "sol", "sol", "fa", "fa", "mi", "mi", "re",
+                "do", "do", "sol", "sol", "la", "la", "sol", "fa", "fa", "mi", "mi", "re", "re", "do");
     }
 
     public static void main(String[] args) {
