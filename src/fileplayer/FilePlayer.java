@@ -40,6 +40,7 @@ public class FilePlayer {
 
             for (String note : notes) {
                 playSingleNote(note);
+                System.out.println(note);
                 Thread.sleep(500); // Adjust the delay between notes as needed
             }
         } catch (InterruptedException e) {
